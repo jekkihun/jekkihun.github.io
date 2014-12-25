@@ -7,3 +7,5 @@ http://jekkihun.github.io/pages.html
 http://jekkihun.github.io/rss.xml
 http://jekkihun.github.io/sitemap.txt
 http://jekkihun.github.io/tags.html
+
+http://jekkihun.github.io/lmbang/2014/12/25/hello-world

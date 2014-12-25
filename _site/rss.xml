@@ -5,10 +5,147 @@
         <description>Kzzang - Kzzang</description>
         <link>http://jekkihun.github.io</link>
         <link>http://jekkihun.github.io</link>
-        <lastBuildDate>2014-12-25T16:39:47+08:00</lastBuildDate>
-        <pubDate>2014-12-25T16:39:47+08:00</pubDate>
+        <lastBuildDate>2014-12-25T16:59:30+08:00</lastBuildDate>
+        <pubDate>2014-12-25T16:59:30+08:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>辣妈帮 For iOS 类名</title>
+                <description>&lt;h1 id=&quot;for-ios-&quot;&gt;辣妈帮 For iOS 类名&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;类名&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;中文说明&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;GroupBlockViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;我的帮Tab&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBangLBSViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;发现&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBTopicViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;话题详情&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBTaskListViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;我的辣豆&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ShoppingWebViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;通用网页&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBECMyOrderViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;我的订单&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBTaskDetailViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;任务详情（我的辣豆）&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBECTabbarController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;电商主页&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBFavoritesViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;我的收藏夹&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBECGoodsDetailViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;商品详情&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBChattingRoomViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;群聊，私聊&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;GroupViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;帮主页&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;PlazaViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;发现Tab&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBTrendViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;动态Tab&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ProMoreViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;更多Tab&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBangLoginViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;登录界面&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBECReturnGoodsSubmitSuccessViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;退款成功界面&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBECGoodsCommentsViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;商品评论&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBLookAroundViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;辣妈都在看&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBLBSContentViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;附近新鲜事&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBChattingGroupsViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;辣妈群组&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBPublishViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;发帖，回帖&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBDarenSelectionViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;辣妈达人&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;MicroDiaryViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;微日记&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBECSeckillDetailViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;商品秒杀详情&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBECServiceViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;联系客服&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;MyViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;用户个人主页&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;LMBECSpecialOfferDetailViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;电商特卖详情&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;NineGridUnlockerViewController&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;九宫格解锁界面&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+                <link>http://jekkihun.github.io/lmbang/2014/12/25/hello-world</link>
+                <guid>http://jekkihun.github.io/lmbang/2014/12/25/hello-world</guid>
+                <pubDate>2014-12-25T00:00:00+08:00</pubDate>
+        </item>
 
 
 </channel>
