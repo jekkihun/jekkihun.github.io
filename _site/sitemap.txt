@@ -1,0 +1,9 @@
+
+http://jekkihun.github.io/archive.html
+http://jekkihun.github.io/atom.xml
+http://jekkihun.github.io/categories.html
+http://jekkihun.github.io/index.html
+http://jekkihun.github.io/pages.html
+http://jekkihun.github.io/rss.xml
+http://jekkihun.github.io/sitemap.txt
+http://jekkihun.github.io/tags.html

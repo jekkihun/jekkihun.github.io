@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Kzzang</title>
+ <link href="http://jekkihun.github.io/" rel="self"/>
+ <link href="http://jekkihun.github.io"/>
+ <updated>2014-12-25T16:39:47+08:00</updated>
+ <id>http://jekkihun.github.io</id>
+ <author>
+   <name>Kzzang</name>
+   <email>jekkihun@gmail.com</email>
+ </author>
+
+ 
+ 
+</feed>
